@@ -29,7 +29,7 @@ dependencies:
   - importlib_metadata=3.1.0=hd8ed1ab_0
   - intel-openmp=2020.2=254
   - ipykernel=5.3.4=py38h7b7c402_1
-  - ipython=7.19.0=py38hc5df569_0
+  - ipython=7.19.0=py38hc5df569_1
   - ipython_genutils=0.2.0=py_1
   - jedi=0.17.2=py38haa244fe_1
   - jinja2=2.11.2=pyh9f0ad1d_0
@@ -122,7 +122,7 @@ dependencies:
   - pip:
     - absl-py==0.11.0
     - astunparse==1.6.3
-    - atari-py==1.2.2
+    - atari-py==0.2.6
     - cachetools==4.1.1
     - chardet==3.0.4
     - cloudpickle==1.6.0
